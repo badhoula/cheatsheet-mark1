@@ -1,0 +1,92 @@
+.navigation {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 4.44rem;
+	padding: 0 12%;
+	background-color: lightgreen;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: .77rem;
+	font-weight: 400;
+	
+}
+.navigation li {
+	display: inline;
+	padding: 2.22rem;
+}
+.banner {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	height: 50rem;
+    background: url("../images/clouds-4258726_1920.jpg");
+	background-size: cover;
+	color: white;
+}
+.banner h1 {
+	padding-tp: 1.11rem;
+	font-size: 11rem;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+	
+}
+.banner {
+	height: 30rem;
+}
+.section-1 {
+	padding: 0 25% 4rem 25%;
+	background-color: mediumseagreen;
+	color: aliceblue;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+	
+}
+.section-1 p {
+	padding-bottom: 2.77rem;
+	font-size: 1.5rem;
+	line-height: 1.4;
+}
+.section-1 h2 {
+	background-color: black;
+	text-align: center;
+}
+.section-1 h3 {
+	text-align: center;
+	background-color: gray;
+}
+.section-2 {
+	padding: 0 25% 4rem 25%;
+	background-color: seagreen; 
+	color: aliceblue;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+.section-2 p {
+	padding-bottom: 2.77rem;
+	font-size: 1.5rem;
+	line-height: 1.4;
+}
+.section-2 h2 {
+	background-color: black;
+	text-align: center;
+	
+}
+.section-2 h3 {
+	text-align: center;
+	background-color: gray;
+}
+table {
+	border: 2px solid #FFFFFF;
+	width: 650px;
+	margin: 0 auto;
+}
+thead {
+	background-color: black
+}
+td {
+	border-top-color: 1px solid white;
+}
+.code {
+  font-family: monospace;
+	background-color: antiquewhite;
+	color: black;
+	
+	
+}
