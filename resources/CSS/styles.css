@@ -26,8 +26,8 @@
 .banner h1 {
 	padding-tp: 1.11rem;
 	font-size: 11rem;
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
-	
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: black
 }
 .banner {
 	height: 30rem;
@@ -36,7 +36,7 @@
 	padding: 0 25% 4rem 25%;
 	background-color: mediumseagreen;
 	color: aliceblue;
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	
 }
 .section-1 p {
@@ -56,7 +56,7 @@
 	padding: 0 25% 4rem 25%;
 	background-color: seagreen; 
 	color: aliceblue;
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 }
 .section-2 p {
 	padding-bottom: 2.77rem;
